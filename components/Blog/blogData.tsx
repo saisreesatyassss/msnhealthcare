@@ -4,44 +4,44 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
-    title: "Free advertising for your online business",
+    title: "10 Effective Strategies for Online Business Growth",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Discover proven techniques to grow your online business through digital marketing, SEO, and customer engagement.",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-02.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Design Trends in 2024: What You Need to Know",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "A deep dive into the upcoming design trends for 2024, including minimalism, color psychology, and responsive designs.",
   },
   {
-    _id: 2,
+    _id: 3,
     mainImage: "/images/blog/blog-03.png",
-    title: "Tips to quickly improve your coding speed.",
+    title: "How to Boost Coding Efficiency with 10 Simple Tips",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Learn how to improve your coding speed and productivity using best practices, shortcuts, and optimized workflows.",
   },
   {
-    _id: 1,
-    mainImage: "/images/blog/blog-03.png",
-    title: "Free advertising for your online business",
-    metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
-  },
-  {
-    _id: 2,
+    _id: 4,
     mainImage: "/images/blog/blog-04.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Content Marketing Strategies for Tech Startups",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "A guide to building a successful content marketing strategy for tech startups to drive engagement and growth.",
   },
   {
-    _id: 2,
-    mainImage: "/images/blog/blog-01.png",
-    title: "Tips to quickly improve your coding speed.",
+    _id: 5,
+    mainImage: "/images/blog/blog-05.png",
+    title: "Understanding the Basics of Machine Learning",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "An introductory guide to the key concepts of machine learning and its applications in real-world scenarios.",
+  },
+  {
+    _id: 6,
+    mainImage: "/images/blog/blog-06.png",
+    title: "Top 5 Tools for Web Developers in 2024",
+    metadata:
+      "Explore the top tools every web developer should know in 2024, from frameworks to productivity boosters.",
   },
 ];
 
