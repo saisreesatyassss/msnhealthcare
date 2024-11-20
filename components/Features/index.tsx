@@ -2,8 +2,7 @@
 import React from "react";
 import featuresData from "./featuresData";
 import SingleFeature from "./SingleFeature";
-import SectionHeader from "../Common/SectionHeader";
-
+import SectionHeader from "../Common/SectionHeader"; 
 const Feature = () => {
   return (
     <>
@@ -13,11 +12,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "MEDICAL SOLUTIONS",
+              subtitle: "Core Features of Our Healthcare Platform",
+              description: `We offer a comprehensive set of features that simplify healthcare management. From patient records to appointment scheduling, we provide secure and reliable digital solutions.`,
             }}
           />
           {/* <!-- Section Title End --> */}
